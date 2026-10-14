@@ -29,6 +29,6 @@ The password change was successful, and the workstation session was authenticate
 - Help desk documentation
 
 ## Evidence
-Screenshots of the password-change prompt, successful password change, and domain login verification are provided in the screenshots folder.
+
 
 *This project was completed in a personal virtualized lab using a simulated support scenario.*
