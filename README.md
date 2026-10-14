@@ -30,5 +30,13 @@ The password change was successful, and the workstation session was authenticate
 
 ## Evidence
 
+### 1. Password Change Prompt
+![Password Change Prompt](screenshots/01-password-change-prompt.png)
+
+### 2. Successful Password Change
+![Password Change Success](screenshots/02-password-change-success.PNG)
+
+### 3. Domain Login Verification
+![Domain Login Verification](screenshots/03-domain-login-verification.PNG)
 
 *This project was completed in a personal virtualized lab using a simulated support scenario.*
